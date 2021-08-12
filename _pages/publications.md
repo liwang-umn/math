@@ -13,11 +13,12 @@ Numerical methods, applied analysis, and mathematical modeling for
 with applications in physics, engineering, biology and social science.
 
 
-Publications
-Submitted:
-Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), submitted.
+## Publications
+### Submitted:
 
-Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv:2007.01969]
+- Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), submitted.
+
+- Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv:2007.01969]
 
 A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), submitted. [arXiv:2006.12528]
 
@@ -27,10 +28,10 @@ Primal dual methods for Wasserstein gradient flows (with J. A. Carrillo, K. Crai
 
 Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), submitted. [arXiv:1811.05579]
 
-Accepted:
+### Accepted:
 
-Published:
-A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), J. Comput. Phys. 7, 100066, 2020. [arXiv:1910.03080][link]
+### Published:
+- A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), *J. Comput. Phys.* 7, 100066, 2020. [arXiv:1910.03080][link]
 
 Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), J. Comput. Phys. 416, 109449, 2020. [arXiv:1907.02152][link]
 
@@ -83,7 +84,7 @@ A domain decomposition method for semilinear hyperbolic systems with two-scale r
 An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in the high field regime (with S. Jin) Acta Mathematica Scientia 31, 2219-2232, 2011. Special issue in honor of Peter Lax's 85th birthday. [link]
 
 
-## Preprints
+
 - [_Semi-global Kuranishi charts and the definition of contact homology_](https://arxiv.org/abs/1512.00580) (with K. Honda), *preprint* (2015)
 
 ## Publications
