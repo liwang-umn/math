@@ -1,6 +1,6 @@
 https://github.com/academicpages/academicpages.github.io
 
-https://erkaobao.github.io/math/
+https://liwang-umn.github.io/math/
 
 important files:
 
