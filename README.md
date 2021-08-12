@@ -13,4 +13,6 @@ _pages/teaching.md
 
 _pages/miscellaneous.md
 
+_pages/about.md
+
 _config.yml
