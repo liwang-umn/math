@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Li Wang"
 description              : &description "personal description"
-url                      : https://erkaobao.github.io/math # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liwang-umn.github.io/math # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "math/erkaobao"
+repository               : "liwang-umn/math"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erkao Bao"
+  name             : "Li Wang"
   avatar           : "profile.png"
   bio              : 
   location         : "206 Church St SE, Minneapolis, MN 55455"
   employer         : 
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=qs9kS1oAAAAJ&hl=en
-  email            : lastNameFirstNameAtGmail
+  googlescholar    : https://scholar.google.com/citations?user=Icj8BbEAAAAJ&hl=en
+  email            : wang8818 at umn dot edu
   researchgate     : 
   uri              :
   bitbucket        :
