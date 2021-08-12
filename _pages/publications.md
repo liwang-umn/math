@@ -6,10 +6,11 @@ author_profile: false
 ---
 
 Research interests
+
 Numerical methods, applied analysis, and mathematical modeling for
-1) kinetic theory;
-2) gradient flows, optimal transport;
-3) conservation laws, fluid dynamics;
+1. kinetic theory;
+2. gradient flows, optimal transport;
+3. conservation laws, fluid dynamics;
 with applications in physics, engineering, biology and social science.
 
 
