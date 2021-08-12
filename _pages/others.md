@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /miscellaneous/
+permalink: /teaching/
 author_profile: false
 ---
 
-Under construction.
+# Under construction
 
-## Seminars
+- 2021
+
