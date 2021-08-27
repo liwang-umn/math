@@ -5,6 +5,6 @@ permalink: /teaching/
 author_profile: false
 ---
 
-# Under construction
+# Fall 2021
 
-- 2021 Fall
+- Math 8450: Topics in Numerical Analysis 
