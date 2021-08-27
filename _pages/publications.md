@@ -18,18 +18,17 @@ with applications in physics, engineering, biology and social science.
 ## Publications
 ### Submitted:
 
+Hessian informed mirror descent (with M. Yan), submitted. [arXiv]
 
-
+An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), submitted. [arXiv]
 
 A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), submitted. [arXiv:2006.12528]
-
-Towards understanding the boundary propagation speeds in tumor growth models (with J.-G. Liu, M. Tang and Z. Zhou), submitted. [arXiv:1910.11502]
-
-
 
 
 
 ### Accepted:
+Towards understanding the boundary propagation speeds in tumor growth models (with J.-G. Liu, M. Tang and Z. Zhou), *SIAM. J. Appl. Math.*, accepted. [arXiv](https://arxiv.org/pdf/1910.11502.pdf)
+
 Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), *SIAM J. Sci. Comput*, accepted, 2021. [arXiv](https://arxiv.org/pdf/1811.05579.pdf)
 
 
@@ -42,13 +41,13 @@ Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck sy
 
 Primal dual methods for Wasserstein gradient flows (with J. A. Carrillo, K. Craig and C. Wei), *Foundations of Computational Mathematics*, 2021. [arXiv](https://arxiv.org/abs/1901.08081) [journal](https://link.springer.com/article/10.1007/s10208-021-09503-1)
 
-A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), *J. Comput. Phys.* 7, 100066, 2020. [arXiv][journal]
+A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), *J. Comput. Phys.* 7, 100066, 2020. [arXiv](https://arxiv.org/pdf/1910.03080.pdf) [journal](https://www.sciencedirect.com/science/article/pii/S2590055220300184)
 
-Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), J. Comput. Phys. 416, 109449, 2020. [arXiv] [journal]
+Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), J. Comput. Phys. 416, 109449, 2020. [arXiv](https://arxiv.org/abs/1907.02152) [journal](https://www.sciencedirect.com/science/article/pii/S0021999120302230)
 
-An asymptotic-preserving scheme for kinetic equation with anisotropic scattering: heavy tail equilibrium and degenerate collision frequency (with B. Yan), SIAM. J. Sci. Comput. 41(1), A422–A451, 2019. [link]
+An asymptotic-preserving scheme for kinetic equation with anisotropic scattering: heavy tail equilibrium and degenerate collision frequency (with B. Yan), SIAM. J. Sci. Comput. 41(1), A422–A451, 2019. [journal](https://www.semanticscholar.org/paper/An-Asymptotic-Preserving-Scheme-for-the-Kinetic-and-Wang-Yan/778a59bc70b9be51f4bf3a4713086f2ccd877128)
 
-Analysis and computation of some tumor growth models with nutrient: from cell density models to free boundary dynamics (with J.-G. Liu, M. Tang and Z. Zhou), DCDS-B 24(7): 3011-3035, 2019. [link]
+Analysis and computation of some tumor growth models with nutrient: from cell density models to free boundary dynamics (with J.-G. Liu, M. Tang and Z. Zhou), DCDS-B 24(7): 3011-3035, 2019. [journal](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2018297)
 
 A new numerical approach to inverse transport equation with error analysis (with Q. Li and R. Shu), SIAM. J. Numer. Anal 56, No.6, 3358-3385, 2018. [arXiv:1708.01984][link]
 
