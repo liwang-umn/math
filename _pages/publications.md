@@ -18,24 +18,33 @@ with applications in physics, engineering, biology and social science.
 ## Publications
 ### Submitted:
 
-Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), submitted.
 
-- Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv:2007.01969]
+
 
 A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), submitted. [arXiv:2006.12528]
 
 Towards understanding the boundary propagation speeds in tumor growth models (with J.-G. Liu, M. Tang and Z. Zhou), submitted. [arXiv:1910.11502]
 
-Primal dual methods for Wasserstein gradient flows (with J. A. Carrillo, K. Craig and C. Wei), submitted. [arXiv:1901.08081]
 
-Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), submitted. [arXiv:1811.05579]
+
+
 
 ### Accepted:
+Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), *SIAM J. Sci. Comput*, accepted, 2021. [arXiv](https://arxiv.org/pdf/1811.05579.pdf)
+
+
+
 
 ### Published:
-- A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), *J. Comput. Phys.* 7, 100066, 2020. [arXiv:1910.03080][link]
+Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), *J. Fluid Mech.*, 2021. [link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/selfsimilarity-in-particle-accumulation-on-the-advancing-meniscus/0962E178622AF766EBDC0DEAEB196183)
 
-Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), J. Comput. Phys. 416, 109449, 2020. [arXiv:1907.02152][link]
+Primal dual methods for Wasserstein gradient flows (with J. A. Carrillo, K. Craig and C. Wei), *Foundations of Computational Mathematics*, 2021. [arXiv](https://arxiv.org/abs/1901.08081)[link](https://link.springer.com/article/10.1007/s10208-021-09503-1)
+
+Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv](https://arxiv.org/pdf/2007.01969.pdf) [link](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
+
+A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), *J. Comput. Phys.* 7, 100066, 2020. [arXiv][link]
+
+Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), J. Comput. Phys. 416, 109449, 2020. [arXiv][link]
 
 An asymptotic-preserving scheme for kinetic equation with anisotropic scattering: heavy tail equilibrium and degenerate collision frequency (with B. Yan), SIAM. J. Sci. Comput. 41(1), A422–A451, 2019. [link]
 
