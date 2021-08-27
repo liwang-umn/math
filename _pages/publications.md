@@ -11,13 +11,14 @@ Numerical methods, applied analysis, and mathematical modeling for
 1. kinetic theory;
 2. gradient flows, optimal transport;
 3. conservation laws, fluid dynamics;
+
 with applications in physics, engineering, biology and social science.
 
 
 ## Publications
 ### Submitted:
 
-- Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), submitted.
+Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), submitted.
 
 - Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv:2007.01969]
 
@@ -80,9 +81,9 @@ Shock solutions for high concentration particle laden thin films (with A. L. Ber
 
 Asymptotic-preserving numerical schemes for the semiconductor Boltzmann equation efficient in the high field regime (with S. Jin),  SIAM J. Sci. Comp. 35, B799 - B819, 2013. [link]
 
-A domain decomposition method for semilinear hyperbolic systems with two-scale relaxations (with S. Jin and J. G. Liu),  Math. Comp. 82, 749 -779, 2013. [link]
+A domain decomposition method for semilinear hyperbolic systems with two-scale relaxations (with S. Jin and J. G. Liu),  *Math. Comp.* 82, 749 -779, 2013. [link](https://www.ams.org/journals/mcom/2013-82-282/S0025-5718-2012-02643-3/home.html)
 
-An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in the high field regime (with S. Jin) Acta Mathematica Scientia 31, 2219-2232, 2011. Special issue in honor of Peter Lax's 85th birthday. [link]
+An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in the high field regime (with S. Jin), *Acta Mathematica Scientia* 31, 2219-2232, 2011. Special issue in honor of Peter Lax's 85th birthday. [link](https://www.sciencedirect.com/science/article/abs/pii/S0252960211603950)
 
 
 
