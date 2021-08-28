@@ -49,11 +49,11 @@ An asymptotic-preserving scheme for kinetic equation with anisotropic scattering
 
 Analysis and computation of some tumor growth models with nutrient: from cell density models to free boundary dynamics (with J.-G. Liu, M. Tang and Z. Zhou), DCDS-B 24(7): 3011-3035, 2019. [journal](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2018297)
 
-A new numerical approach to inverse transport equation with error analysis (with Q. Li and R. Shu), SIAM. J. Numer. Anal 56, No.6, 3358-3385, 2018. [arXi](https://arxiv.org/abs/1708.01984) [link](https://epubs.siam.org/doi/abs/10.1137/17M1142697)
+A new numerical approach to inverse transport equation with error analysis (with Q. Li and R. Shu), SIAM. J. Numer. Anal 56, No.6, 3358-3385, 2018. [arXi](https://arxiv.org/abs/1708.01984) [journal](https://epubs.siam.org/doi/abs/10.1137/17M1142697)
 
-Stability of inverse transport equation in diffusion scaling and Fokker-Planck limit (with K. Chen and Q. Li), SIAM J. Appl. Math.78, No.5, 2626--2647, 2018.  [arXiv:1708.03063][link]
+Stability of inverse transport equation in diffusion scaling and Fokker-Planck limit (with K. Chen and Q. Li), SIAM J. Appl. Math.78, No.5, 2626--2647, 2018.  [arXiv](https://arxiv.org/abs/1708.03063) [journal](https://epubs.siam.org/doi/10.1137/17M1157969)
 
-Crime modeling with truncated Levy flights for residential burglary models (with C. Pan, B. Li, C. Wang, Y. Zhang, N. Geldner, A. L. Bertozzi), Math. Models Methods Appl. Sci. 28, No.9, 1857--1880, 2018. [link]
+Crime modeling with truncated Levy flights for residential burglary models (with C. Pan, B. Li, C. Wang, Y. Zhang, N. Geldner, A. L. Bertozzi), Math. Models Methods Appl. Sci. 28, No.9, 1857--1880, 2018. [arXiv](https://arxiv.org/abs/1601.03415) [arXiv](https://www.worldscientific.com/doi/abs/10.1142/S0218202518400080)
 
 Modeling and simulations of particle-laden flow with surface tension (with A. Mavromoustaki, J. Wong and A. L. Bertozzi), Nonlinearity 31, No.7, 3151--3173, 2018.  [preprint][link]
 
@@ -95,21 +95,7 @@ An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in t
 
 
 
-- [_Semi-global Kuranishi charts and the definition of contact homology_](https://arxiv.org/abs/1512.00580) (with K. Honda), *preprint* (2015)
 
-## Publications
-
-- [_Immersed Lagrangian Floer cohomology via pearly trajectories_](https://arxiv.org/abs/1907.03072) (with G. Alston), *Journal of Geometry and Physics* (2021) 169
-
-- [_Equivariant Lagrangian Floer cohomology via semi-global Kuranishi structures_](https://arxiv.org/abs/1812.09796) (with K. Honda), *Algebraic and Geometric Topology* (2018)
-
-- [_Definition of cylindrical contact homology in dimension three_](https://arxiv.org/abs/1412.0276) (with K. Honda), *Journal of Topology* (2018) 11 (4), 1002-1053
-
-- [_Exact, graded, immersed Lagrangians and Floer theory_](https://arxiv.org/abs/1407.3871) (with G. Alston), *Journal of Symplectic Geometry* (2018) 16 (2), 357-438
-
-- [_On Hofer Energy of J-holomorphic Curves for Asymptotically Cylindrical J_](https://arxiv.org/abs/1303.4430v3), *Journal of Symplectic Geometry* (2016) 14.1 97-118
-
-- [_On J-holomorphic curves in almost complex manifolds with asymptotically cylindrical ends_](https://arxiv.org/abs/1207.4855), *Pacific Journal of Mathematics* (2015) 278 (2), 291-324
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
