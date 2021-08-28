@@ -81,15 +81,15 @@ Rarefaction-singular shock solution for conserved volume gravity driven particle
 
 An asymptotic-preserving scheme for the semiconductor Boltzmann equation toward the energy-transport limit (with J. Hu), J. Comput. Phys. 281, 806 - 821, 2015. [journal](https://www.sciencedirect.com/science/article/pii/S0021999114007384?via%3Dihub)
 
-Contagion shocks in one dimension (with A. L. Bertozzi, J. Rosado, and M. Short),  J. Stat. Phys. 3, Vol. 158, 647 - 664, 2015. [link]
+Contagion shocks in one dimension (with A. L. Bertozzi, J. Rosado, and M. Short), *J. Stat. Phys.* 3, Vol. 158, 647 - 664, 2015. [journal](https://link.springer.com/article/10.1007/s10955-014-1019-6)
 
-Well-posedness and singular limit of a semilinear hyperbolic relaxation system with a two-scale discontinuous relaxation rate (with F. Coquel, S. Jin, and J. G. Liu),  Arch. Rat. Mech. Anal. 214, 1051-1084, 2014. [link]
+Well-posedness and singular limit of a semilinear hyperbolic relaxation system with a two-scale discontinuous relaxation rate (with F. Coquel, S. Jin, and J. G. Liu), *Arch. Rat. Mech. Anal.* 214, 1051-1084, 2014. [journal](https://link.springer.com/article/10.1007/s00205-014-0773-6)
 
-Shock solutions for high concentration particle laden thin films (with A. L. Bertozzi),  SIAM J. Appl. Math., 74(2), 322 - 344, 2014. [link]
+Shock solutions for high concentration particle laden thin films (with A. L. Bertozzi), *SIAM J. Appl. Math.*, 74(2), 322 - 344, 2014. [journal](https://epubs.siam.org/doi/abs/10.1137/130917740)
 
-Asymptotic-preserving numerical schemes for the semiconductor Boltzmann equation efficient in the high field regime (with S. Jin),  SIAM J. Sci. Comp. 35, B799 - B819, 2013. [journal](https://epubs.siam.org/doi/abs/10.1137/120886534)
+Asymptotic-preserving numerical schemes for the semiconductor Boltzmann equation efficient in the high field regime (with S. Jin), *SIAM J. Sci. Comp.* 35, B799 - B819, 2013. [journal](https://epubs.siam.org/doi/abs/10.1137/120886534)
 
-A domain decomposition method for semilinear hyperbolic systems with two-scale relaxations (with S. Jin and J. G. Liu),  *Math. Comp.* 82, 749 -779, 2013. [link](https://www.ams.org/journals/mcom/2013-82-282/S0025-5718-2012-02643-3/home.html)
+A domain decomposition method for semilinear hyperbolic systems with two-scale relaxations (with S. Jin and J. G. Liu), *Math. Comp.* 82, 749 -779, 2013. [link](https://www.ams.org/journals/mcom/2013-82-282/S0025-5718-2012-02643-3/home.html)
 
 An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in the high field regime (with S. Jin), *Acta Mathematica Scientia* 31, 2219-2232, 2011. Special issue in honor of Peter Lax's 85th birthday. [link](https://www.sciencedirect.com/science/article/abs/pii/S0252960211603950)
 
