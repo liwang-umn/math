@@ -37,11 +37,11 @@ Accurate front capturing asymptotic preserving method for nonlinear grey radiati
 ### Published:
 Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), *J. Fluid Mech.*, 2021. [journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/selfsimilarity-in-particle-accumulation-on-the-advancing-meniscus/0962E178622AF766EBDC0DEAEB196183)
 
-Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv](https://arxiv.org/pdf/2007.01969.pdf) [journal](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
+Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv](https://arxiv.org/pdf/2007.01969) [journal](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
 
 Primal dual methods for Wasserstein gradient flows (with J. A. Carrillo, K. Craig and C. Wei), *Foundations of Computational Mathematics*, 2021. [arXiv](https://arxiv.org/abs/1901.08081) [journal](https://link.springer.com/article/10.1007/s10208-021-09503-1)
 
-A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), *J. Comput. Phys.* 7, 100066, 2020. [arXiv](https://arxiv.org/pdf/1910.03080.pdf) [journal](https://www.sciencedirect.com/science/article/pii/S2590055220300184)
+A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu and J. Wu), *J. Comput. Phys.* 7, 100066, 2020. [arXiv](https://arxiv.org/pdf/1910.03080) [journal](https://www.sciencedirect.com/science/article/pii/S2590055220300184)
 
 Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), J. Comput. Phys. 416, 109449, 2020. [arXiv](https://arxiv.org/abs/1907.02152) [journal](https://www.sciencedirect.com/science/article/pii/S0021999120302230)
 
@@ -49,7 +49,7 @@ An asymptotic-preserving scheme for kinetic equation with anisotropic scattering
 
 Analysis and computation of some tumor growth models with nutrient: from cell density models to free boundary dynamics (with J.-G. Liu, M. Tang and Z. Zhou), DCDS-B 24(7): 3011-3035, 2019. [journal](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2018297)
 
-A new numerical approach to inverse transport equation with error analysis (with Q. Li and R. Shu), SIAM. J. Numer. Anal 56, No.6, 3358-3385, 2018. [arXiv:1708.01984][link]
+A new numerical approach to inverse transport equation with error analysis (with Q. Li and R. Shu), SIAM. J. Numer. Anal 56, No.6, 3358-3385, 2018. [arXi](https://arxiv.org/abs/1708.01984) [link](https://epubs.siam.org/doi/abs/10.1137/17M1142697)
 
 Stability of inverse transport equation in diffusion scaling and Fokker-Planck limit (with K. Chen and Q. Li), SIAM J. Appl. Math.78, No.5, 2626--2647, 2018.  [arXiv:1708.03063][link]
 
