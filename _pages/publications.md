@@ -55,15 +55,15 @@ Stability of inverse transport equation in diffusion scaling and Fokker-Planck l
 
 Crime modeling with truncated Levy flights for residential burglary models (with C. Pan, B. Li, C. Wang, Y. Zhang, N. Geldner, A. L. Bertozzi), Math. Models Methods Appl. Sci. 28, No.9, 1857--1880, 2018. [arXiv](https://arxiv.org/abs/1601.03415) [arXiv](https://www.worldscientific.com/doi/abs/10.1142/S0218202518400080)
 
-Modeling and simulations of particle-laden flow with surface tension (with A. Mavromoustaki, J. Wong and A. L. Bertozzi), Nonlinearity 31, No.7, 3151--3173, 2018.  [preprint][link]
+Modeling and simulations of particle-laden flow with surface tension (with A. Mavromoustaki, J. Wong and A. L. Bertozzi), Nonlinearity 31, No.7, 3151--3173, 2018.  [journal](https://iopscience.iop.org/article/10.1088/1361-6544/aab91d)
 
-An accurate front capturing scheme for tumor growth models with a free boundary limit (with J.-G. Liu, M. Tang and Z. Zhou), J. Comput. Phys. 364, 73--94, 2018. [arXiv:1708.08395] [link]
+An accurate front capturing scheme for tumor growth models with a free boundary limit (with J.-G. Liu, M. Tang and Z. Zhou), J. Comput. Phys. 364, 73--94, 2018. [arXiv](https://arxiv.org/abs/1708.08395) [journal](https://www.sciencedirect.com/science/article/pii/S0021999118301657#%21)
 
-Stability of stationary inverse transport equation in diffusion scaling (with. K. Chen and Q. Li), Inverse Problems. 34, No. 2, 2018. [arXiv:1703.00097] [link]
+Stability of stationary inverse transport equation in diffusion scaling (with. K. Chen and Q. Li), Inverse Problems. 34, No. 2, 2018. [arXiv](https://arxiv.org/abs/1703.00097#) [journal](https://iopscience.iop.org/article/10.1088/1361-6420/aa990c/pdf)
 
-Positivity-preserving and asymptotic preserving method for 2D Keller-Segal equations (with J.-G. Liu and Z. Zhou), Math. Comp. 87, 1165--1189, 2018. [preprint] [link]
+Positivity-preserving and asymptotic preserving method for 2D Keller-Segal equations (with J.-G. Liu and Z. Zhou), Math. Comp. 87, 1165--1189, 2018. [journal](https://www.ams.org/journals/mcom/2018-87-311/S0025-5718-2017-03250-6/)
 
-Entropic sub-cell shock capturing schemes via Jin-Xin relaxation and Glimm front sampling for scalar hyperbolic conservation laws (with F. Coquel, S. Jin and J.-G. Liu), Math. Comp. 87, 1083-1126, 2018. [preprint] [link]
+Entropic sub-cell shock capturing schemes via Jin-Xin relaxation and Glimm front sampling for scalar hyperbolic conservation laws (with F. Coquel, S. Jin and J.-G. Liu), Math. Comp. 87, 1083-1126, 2018. [journal](https://www.ams.org/journals/mcom/2018-87-311/S0025-5718-2017-03253-1/)
 
 Uniform regularity for linear kinetic equations with random input based on hypocoercivity (with Q. Li), SIAM J. Uncer. Quan., 5 (1), 1193--1219, 2017. [arXiv: 1612.01219] [link]
 
