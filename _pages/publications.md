@@ -18,11 +18,12 @@ with applications in physics, engineering, biology and social science.
 ## Publications
 ### Submitted:
 
-Hessian informed mirror descent (with M. Yan), submitted. [arXiv]
+Hessian informed mirror descent (with M. Yan), submitted. [arXiv](https://arxiv.org/abs/2106.13477)
 
-An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), submitted. [arXiv]
+An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), submitted. [arXiv](https://arxiv.org/abs/2103.08848)
 
-A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), submitted. [arXiv:2006.12528]
+A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), submitted. [arXiv](https://arxiv.org/abs/2006.12528)
+
 
 
 
