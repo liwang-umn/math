@@ -38,7 +38,7 @@ Accurate front capturing asymptotic preserving method for nonlinear grey radiati
 ### Published:
 Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), *J. Fluid Mech.*, 2021. [journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/selfsimilarity-in-particle-accumulation-on-the-advancing-meniscus/0962E178622AF766EBDC0DEAEB196183)
 
-Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), submitted. [arXiv](https://arxiv.org/pdf/2007.01969) [journal](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
+Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), *Multiscale Model. Simul.*, 19(1), 478–505. [arXiv](https://arxiv.org/pdf/2007.01969) [journal](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
 
 Primal dual methods for Wasserstein gradient flows (with J. A. Carrillo, K. Craig and C. Wei), *Foundations of Computational Mathematics*, 2021. [arXiv](https://arxiv.org/abs/1901.08081) [journal](https://link.springer.com/article/10.1007/s10208-021-09503-1)
 
