@@ -13,4 +13,7 @@ I am an Assistant Professor at the [School of Mathematics](https://cse.umn.edu/m
 
 
 
-Before came to Minnesota, I spent half of five years as an assistant professor at the [Department of Mathematics](http://www.buffalo.edu/cas/math.html) and  [CDSE program](https://www.buffalo.edu/icds/programs-and-degrees/cdse.html), State University of New York at Buffalo, and another half as a CAM assistant adjunct professor at UCLA, with Prof. [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). I got my Ph.D. from the University of Wisconsin-Madison in 2012, under the supervision of Prof. [Shi Jin](https://ins.sjtu.edu.cn/people/shijin/#publications).
+Before came to Minnesota, I was an assistant professor at the [Department of Mathematics](http://www.buffalo.edu/cas/math.html) and  [CDSE program](https://www.buffalo.edu/icds/programs-and-degrees/cdse.html), State University of New York at Buffalo. Prior to that, I was a CAM assistant adjunct professor at UCLA, with Prof. [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). I got my Ph.D. from the University of Wisconsin-Madison, under the supervision of Prof. [Shi Jin](https://ins.sjtu.edu.cn/people/shijin/#publications).
+
+
+**Highly-motivated students are always welcome to join our group!**
