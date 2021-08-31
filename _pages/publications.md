@@ -38,7 +38,7 @@ Accurate front capturing asymptotic preserving method for nonlinear grey radiati
 ### Published:
 Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), *J. Fluid Mech.*, 2021. [journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/selfsimilarity-in-particle-accumulation-on-the-advancing-meniscus/0962E178622AF766EBDC0DEAEB196183)
 
-Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), *Multiscale Model. Simul.*, 19(1), 478–505. [arXiv](https://arxiv.org/pdf/2007.01969) [journal](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
+Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), *Multiscale Model. Simul.*, 19(1), 478-–505. [arXiv](https://arxiv.org/pdf/2007.01969) [journal](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
 
 Primal dual methods for Wasserstein gradient flows (with J. A. Carrillo, K. Craig and C. Wei), *Foundations of Computational Mathematics*, 2021. [arXiv](https://arxiv.org/abs/1901.08081) [journal](https://link.springer.com/article/10.1007/s10208-021-09503-1)
 
@@ -46,11 +46,11 @@ A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu a
 
 Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), *J. Comput. Phys.* 416, 109449, 2020. [arXiv](https://arxiv.org/abs/1907.02152) [journal](https://www.sciencedirect.com/science/article/pii/S0021999120302230)
 
-An asymptotic-preserving scheme for kinetic equation with anisotropic scattering: heavy tail equilibrium and degenerate collision frequency (with B. Yan), *SIAM. J. Sci. Comput.* 41(1), A422–A451, 2019. [journal](https://www.semanticscholar.org/paper/An-Asymptotic-Preserving-Scheme-for-the-Kinetic-and-Wang-Yan/778a59bc70b9be51f4bf3a4713086f2ccd877128)
+An asymptotic-preserving scheme for kinetic equation with anisotropic scattering: heavy tail equilibrium and degenerate collision frequency (with B. Yan), *SIAM. J. Sci. Comput.* 41(1), A422-–A451, 2019. [journal](https://www.semanticscholar.org/paper/An-Asymptotic-Preserving-Scheme-for-the-Kinetic-and-Wang-Yan/778a59bc70b9be51f4bf3a4713086f2ccd877128)
 
-Analysis and computation of some tumor growth models with nutrient: from cell density models to free boundary dynamics (with J.-G. Liu, M. Tang and Z. Zhou), *DCDS-B* 24(7): 3011-3035, 2019. [journal](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2018297)
+Analysis and computation of some tumor growth models with nutrient: from cell density models to free boundary dynamics (with J.-G. Liu, M. Tang and Z. Zhou), *DCDS-B* 24(7): 3011--3035, 2019. [journal](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2018297)
 
-A new numerical approach to inverse transport equation with error analysis (with Q. Li and R. Shu), *SIAM. J. Numer. Anal* 56, No.6, 3358-3385, 2018. [arXi](https://arxiv.org/abs/1708.01984) [journal](https://epubs.siam.org/doi/abs/10.1137/17M1142697)
+A new numerical approach to inverse transport equation with error analysis (with Q. Li and R. Shu), *SIAM. J. Numer. Anal* 56, No.6, 3358--3385, 2018. [arXi](https://arxiv.org/abs/1708.01984) [journal](https://epubs.siam.org/doi/abs/10.1137/17M1142697)
 
 Stability of inverse transport equation in diffusion scaling and Fokker-Planck limit (with K. Chen and Q. Li), *SIAM J. Appl. Math.* 78, No.5, 2626--2647, 2018.  [arXiv](https://arxiv.org/abs/1708.03063) [journal](https://epubs.siam.org/doi/10.1137/17M1157969)
 
@@ -76,23 +76,23 @@ An asymptotic-preserving scheme for linear kinetic equation with fractional diff
 
 The ADI methods for two-dimensional nonlinear multidelay parabolic equations (with Q. Zhang, C. Zhang), *J. Comp. Appl. Math.* 306, 217--230, 2016. [journal](https://www.sciencedirect.com/science/article/pii/S0377042716301893)
 
-An asymptotic-preserving scheme for the semiconductor Boltzmann equation with two-scale collisions: a splitting approach (with J. Hu and S. Jin), *Kinetic and Related Models* 8, 707-723, 2015. [journal](http://www.aimsciences.org/article/doi/10.3934/krm.2015.8.707)
+An asymptotic-preserving scheme for the semiconductor Boltzmann equation with two-scale collisions: a splitting approach (with J. Hu and S. Jin), *Kinetic and Related Models* 8, 707--723, 2015. [journal](http://www.aimsciences.org/article/doi/10.3934/krm.2015.8.707)
 
 Rarefaction-singular shock solution for conserved volume gravity driven particle-laden thin film (with A. Mavromoustaki, A. L. Bertozzi, G. Urdaneta and K. Huang),  Phys. Fluids 27, 033301, 2015. [journal](https://aip.scitation.org/doi/abs/10.1063/1.4913851)
 
-An asymptotic-preserving scheme for the semiconductor Boltzmann equation toward the energy-transport limit (with J. Hu), J. Comput. Phys. 281, 806 - 821, 2015. [journal](https://www.sciencedirect.com/science/article/pii/S0021999114007384?via%3Dihub)
+An asymptotic-preserving scheme for the semiconductor Boltzmann equation toward the energy-transport limit (with J. Hu), J. Comput. Phys. 281, 806--821, 2015. [journal](https://www.sciencedirect.com/science/article/pii/S0021999114007384?via%3Dihub)
 
-Contagion shocks in one dimension (with A. L. Bertozzi, J. Rosado, and M. Short), *J. Stat. Phys.* 3, Vol. 158, 647 - 664, 2015. [journal](https://link.springer.com/article/10.1007/s10955-014-1019-6)
+Contagion shocks in one dimension (with A. L. Bertozzi, J. Rosado, and M. Short), *J. Stat. Phys.* 3, Vol. 158, 647--664, 2015. [journal](https://link.springer.com/article/10.1007/s10955-014-1019-6)
 
-Well-posedness and singular limit of a semilinear hyperbolic relaxation system with a two-scale discontinuous relaxation rate (with F. Coquel, S. Jin, and J. G. Liu), *Arch. Rat. Mech. Anal.* 214, 1051-1084, 2014. [journal](https://link.springer.com/article/10.1007/s00205-014-0773-6)
+Well-posedness and singular limit of a semilinear hyperbolic relaxation system with a two-scale discontinuous relaxation rate (with F. Coquel, S. Jin, and J. G. Liu), *Arch. Rat. Mech. Anal.* 214, 1051--1084, 2014. [journal](https://link.springer.com/article/10.1007/s00205-014-0773-6)
 
-Shock solutions for high concentration particle laden thin films (with A. L. Bertozzi), *SIAM J. Appl. Math.*, 74(2), 322 - 344, 2014. [journal](https://epubs.siam.org/doi/abs/10.1137/130917740)
+Shock solutions for high concentration particle laden thin films (with A. L. Bertozzi), *SIAM J. Appl. Math.*, 74(2), 322--344, 2014. [journal](https://epubs.siam.org/doi/abs/10.1137/130917740)
 
-Asymptotic-preserving numerical schemes for the semiconductor Boltzmann equation efficient in the high field regime (with S. Jin), *SIAM J. Sci. Comp.* 35, B799 - B819, 2013. [journal](https://epubs.siam.org/doi/abs/10.1137/120886534)
+Asymptotic-preserving numerical schemes for the semiconductor Boltzmann equation efficient in the high field regime (with S. Jin), *SIAM J. Sci. Comp.* 35, B799--B819, 2013. [journal](https://epubs.siam.org/doi/abs/10.1137/120886534)
 
-A domain decomposition method for semilinear hyperbolic systems with two-scale relaxations (with S. Jin and J. G. Liu), *Math. Comp.* 82, 749 -779, 2013. [link](https://www.ams.org/journals/mcom/2013-82-282/S0025-5718-2012-02643-3/home.html)
+A domain decomposition method for semilinear hyperbolic systems with two-scale relaxations (with S. Jin and J. G. Liu), *Math. Comp.* 82, 749--779, 2013. [link](https://www.ams.org/journals/mcom/2013-82-282/S0025-5718-2012-02643-3/home.html)
 
-An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in the high field regime (with S. Jin), *Acta Mathematica Scientia* 31, 2219-2232, 2011. Special issue in honor of Peter Lax's 85th birthday. [link](https://www.sciencedirect.com/science/article/abs/pii/S0252960211603950)
+An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in the high field regime (with S. Jin), *Acta Mathematica Scientia* 31, 2219--2232, 2011. Special issue in honor of Peter Lax's 85th birthday. [link](https://www.sciencedirect.com/science/article/abs/pii/S0252960211603950)
 
 
 
