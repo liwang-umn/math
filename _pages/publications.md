@@ -63,7 +63,7 @@ Stability of stationary inverse transport equation in diffusion scaling (with. K
 
 Positivity-preserving and asymptotic preserving method for 2D Keller-Segal equations (with J.-G. Liu and Z. Zhou), *Math. Comp.* 87, 1165--1189, 2018. [journal](https://www.ams.org/journals/mcom/2018-87-311/S0025-5718-2017-03250-6/)
 
-Entropic sub-cell shock capturing schemes via Jin-Xin relaxation and Glimm front sampling for scalar hyperbolic conservation laws (with F. Coquel, S. Jin and J.-G. Liu), *Math. Comp.* 87, 1083-1126, 2018. [journal](https://www.ams.org/journals/mcom/2018-87-311/S0025-5718-2017-03253-1/)
+Entropic sub-cell shock capturing schemes via Jin-Xin relaxation and Glimm front sampling for scalar hyperbolic conservation laws (with F. Coquel, S. Jin and J.-G. Liu), *Math. Comp.* 87, 1083--1126, 2018. [journal](https://www.ams.org/journals/mcom/2018-87-311/S0025-5718-2017-03253-1/)
 
 Uniform regularity for linear kinetic equations with random input based on hypocoercivity (with Q. Li), *SIAM J. Uncer. Quan.*, 5 (1), 1193--1219, 2017. [arXiv](https://arxiv.org/abs/1612.01219) [journal](https://epubs.siam.org/doi/abs/10.1137/16M1106675?journalCode=sjuqa3)
 
