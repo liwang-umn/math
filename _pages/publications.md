@@ -17,7 +17,7 @@ with applications in physics, engineering, biology and social science.
 
 ## Publications
 
-### Preprint:
+### Preprints:
 
 Hessian informed mirror descent (with M. Yan), submitted. [arXiv](https://arxiv.org/abs/2106.13477)
 
