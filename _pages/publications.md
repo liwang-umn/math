@@ -16,7 +16,8 @@ with applications in physics, engineering, biology and social science.
 
 
 ## Publications
-### Submitted:
+
+### Preprint:
 
 Hessian informed mirror descent (with M. Yan), submitted. [arXiv](https://arxiv.org/abs/2106.13477)
 
@@ -27,15 +28,13 @@ A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G
 
 
 
-### Accepted:
+### Journal Publications:
+
 Towards understanding the boundary propagation speeds in tumor growth models (with J.-G. Liu, M. Tang and Z. Zhou), *SIAM. J. Appl. Math.*, accepted. [arXiv](https://arxiv.org/pdf/1910.11502.pdf)
 
 Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), *SIAM J. Sci. Comput*, accepted, 2021. [arXiv](https://arxiv.org/pdf/1811.05579.pdf)
 
 
-
-
-### Published:
 Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), *J. Fluid Mech.*, 2021. [journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/selfsimilarity-in-particle-accumulation-on-the-advancing-meniscus/0962E178622AF766EBDC0DEAEB196183)
 
 Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system (with J. A. Carrillo, W. Xu and M. Yan), *Multiscale Model. Simul.*, 19(1), 478-–505. [arXiv](https://arxiv.org/pdf/2007.01969) [journal](https://epubs.siam.org/doi/abs/10.1137/20M1350431)
