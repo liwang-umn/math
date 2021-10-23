@@ -19,6 +19,8 @@ with applications in physics, engineering, biology and social science.
 
 ### Preprints:
 
+Solving multiscale steady radiative transfer equation using neural networks with uniform stability (with Y. Lu and W. Xu), submitted. [arXiv](https://arxiv.org/abs/2110.07037)
+
 Hessian informed mirror descent (with M. Yan), submitted. [arXiv](https://arxiv.org/abs/2106.13477)
 
 An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), submitted. [arXiv](https://arxiv.org/abs/2103.08848)
