@@ -12,25 +12,28 @@ Numerical methods, applied analysis, and mathematical modeling for
 2. gradient flows, optimal transport;
 3. conservation laws, fluid dynamics;
 
-with applications in physics, engineering, biology and social science.
+with applications in physics, engineering, biology and data science.
 
 
 ## Publications
 
 ### Preprints:
 
-Solving multiscale steady radiative transfer equation using neural networks with uniform stability (with Y. Lu and W. Xu), submitted. [arXiv](https://arxiv.org/abs/2110.07037)
+Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2209.12114)
 
-Hessian informed mirror descent (with M. Yan), submitted. [arXiv](https://arxiv.org/abs/2106.13477)
-
-An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), submitted. [arXiv](https://arxiv.org/abs/2103.08848)
-
-A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), submitted. [arXiv](https://arxiv.org/abs/2006.12528)
-
+Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *submitted*. [arXiv](https://arxiv.org/abs/2208.12302)
 
 
 
 ### Journal Publications:
+
+Solving multiscale steady radiative transfer equation using neural networks with uniform stability (with Y. Lu and W. Xu), *Research in Mathematical Sciences 9*, 2022. [Journal](https://link.springer.com/article/10.1007/s40687-022-00345-z) [arXiv](https://arxiv.org/abs/2110.07037)
+
+Hessian informed mirror descent (with M. Yan), *J. Sci. Comput.* 92, 2022. [journal](https://link.springer.com/article/10.1007/s10915-022-01933-5) [arXiv](https://arxiv.org/abs/2106.13477)
+
+An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), *Comm. Math. Sci.*, accepted. [arXiv](https://arxiv.org/abs/2103.08848)
+
+A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), *Numerische Mathematik* 152, 631–662, 2022. [journal](https://link.springer.com/article/10.1007/s00211-022-01320-0) [arXiv](https://arxiv.org/abs/2006.12528)
 
 Self-similarity in particle accumulation on the advancing meniscus (with Y. Chen, R. Luo and S. Lee), *J. Fluid Mech.*, 2021. [journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/selfsimilarity-in-particle-accumulation-on-the-advancing-meniscus/0962E178622AF766EBDC0DEAEB196183)
 
@@ -42,7 +45,7 @@ A particle method for the homogeneous Landau equation (with J. Carrillo, J. Hu a
 
 Fisher information regularization schemes for Wasserstein gradient flows (with W. Li and J. Lu), *J. Comput. Phys.* 416, 109449, 2020. [arXiv](https://arxiv.org/abs/1907.02152) [journal](https://www.sciencedirect.com/science/article/pii/S0021999120302230)
 
-Towards understanding the boundary propagation speeds in tumor growth models (with J.-G. Liu, M. Tang and Z. Zhou), *SIAM. J. Appl. Math.*, accepted, 2021. [arXiv](https://arxiv.org/pdf/1910.11502.pdf)
+Towards understanding the boundary propagation speeds in tumor growth models (with J.-G. Liu, M. Tang and Z. Zhou), *SIAM. J. Appl. Math.*, 2021. [journal](https://epubs.siam.org/doi/10.1137/19M1296665) [arXiv](https://arxiv.org/pdf/1910.11502.pdf)
 
 Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), *SIAM J. Sci. Comput*, accepted, 2021. [arXiv](https://arxiv.org/pdf/1811.05579.pdf)
 
@@ -97,6 +100,9 @@ An asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system in t
 
 
 
+
+### Others:
+Multiscale physical problems: asymptotics and asmptotic-preserving Schemes (with S. Jin, L. Li and Z. Zhou), Panoramas et Syntheses, 2022.
 
 
 
