@@ -5,6 +5,6 @@ permalink: /teaching/
 author_profile: false
 ---
 
-# Fall 2021
+# Fall 2022
 
-- Math 8450: Topics in Numerical Analysis [canvas](https://canvas.umn.edu/courses/276592)
+- Math 8441: Numerical Analysis I [canvas](https://canvas.umn.edu/courses/276592)
