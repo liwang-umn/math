@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Associate Professor at the [School of Mathematics](https://cse.umn.edu/math), University of Minnesota. My general research interests lie in applied mathematics, numerical analysis and scientific computing.
 
-[Biography]()
+[Biography](https://liwang-umn.github.io/math/bio/)
 
 Contact Information:
 
