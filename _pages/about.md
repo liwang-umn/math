@@ -13,8 +13,12 @@ I am an Associate Professor at the [School of Mathematics](https://cse.umn.edu/m
 
 [Biography](https://liwang-umn.github.io/math/bio/)
 
-Contact Information:
+Contact Information:  
+329 Vincent Hall  
+206 Church St. SE.  
+Minneapolis, MN 55455
 
+Email: wang8818 at umn dot edu
 
 
 
