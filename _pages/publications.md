@@ -11,6 +11,7 @@ Numerical methods, applied analysis, and mathematical modeling for
 1. kinetic theory;
 2. gradient flows, optimal transport;
 3. conservation laws, fluid dynamics;
+4. inverse problems;
 
 with applications in physics, engineering, biology and data science.
 
@@ -19,19 +20,29 @@ with applications in physics, engineering, biology and data science.
 
 ### Preprints:
 
+Suppressing instability in a Vlasov-Poisson system by an external electric field through constrained optimization (with L. Einkemmer, Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2305.17994)
+
+Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2305.04024)
+
+Structure preserving primal dual methods for gradient flows with nonlinear mobility transport distances (with J. Carrillo and C. Wei), *submitted*. [arXiv](https://arxiv.org/abs/2303.16534)
+
 Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2209.12114)
 
 Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *submitted*. [arXiv](https://arxiv.org/abs/2208.12302)
 
 
 
-### Journal Publications:
+### Refereed journal or conference publications:
+
+Transfer learning enhanced DeepONet for long-time prediction of evolution equations (with Y. Lu and W. Xu), *The 37th AAAI conference on Artificial Intelligence*, 2023. [arXiv](https://arxiv.org/abs/2212.04663) [Code](https://github.com/woodssss/TL-PI-DeepONet)
 
 Solving multiscale steady radiative transfer equation using neural networks with uniform stability (with Y. Lu and W. Xu), *Research in Mathematical Sciences 9*, 2022. [Journal](https://link.springer.com/article/10.1007/s40687-022-00345-z) [arXiv](https://arxiv.org/abs/2110.07037)
 
 Hessian informed mirror descent (with M. Yan), *J. Sci. Comput.* 92, 2022. [journal](https://link.springer.com/article/10.1007/s10915-022-01933-5) [arXiv](https://arxiv.org/abs/2106.13477)
 
-An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), *Comm. Math. Sci.*, accepted. [arXiv](https://arxiv.org/abs/2103.08848)
+Bayesian instability of optical imaging: ill conditioning of inverse linear and nonlinear radiative transfer equation in the fluid fegime (with Q. Li and K. Newton), *Computation*, 2022. [journal](https://www.mdpi.com/2079-3197/10/2/15)
+
+An asymptotic preserving scheme for L\'evy-Fokker-Planck equation with fractional diffusion limit (with W. Xu), *Comm. Math. Sci.* 21, No. 1, 1--21, 2023. [arXiv](https://arxiv.org/abs/2103.08848) [journal](https://www.intlpress.com/site/pub/files/_fulltext/journals/cms/2023/0021/0001/CMS-2023-0021-0001-a001.pdf)
 
 A proximal-gradient algorithm for crystal surface evolution (with K. Craig, J.-G. Liu, J. Lu, J. Marzuola), *Numerische Mathematik* 152, 631–662, 2022. [journal](https://link.springer.com/article/10.1007/s00211-022-01320-0) [arXiv](https://arxiv.org/abs/2006.12528)
 
