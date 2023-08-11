@@ -20,19 +20,22 @@ with applications in physics, engineering, biology and data science.
 
 ### Preprints:
 
+On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *submitted*. [arXiv](https://arxiv.org/pdf/2307.16814)
+
 Suppressing instability in a Vlasov-Poisson system by an external electric field through constrained optimization (with L. Einkemmer, Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2305.17994)
 
 Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2305.04024)
 
 Structure preserving primal dual methods for gradient flows with nonlinear mobility transport distances (with J. Carrillo and C. Wei), *submitted*. [arXiv](https://arxiv.org/abs/2303.16534)
 
-Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2209.12114)
 
 Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *submitted*. [arXiv](https://arxiv.org/abs/2208.12302)
 
 
 
 ### Refereed journal or conference publications:
+
+Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *SIAM J. Numer. Anal.*, accpeted.  [arXiv](https://arxiv.org/abs/2209.12114)
 
 Transfer learning enhanced DeepONet for long-time prediction of evolution equations (with Y. Lu and W. Xu), *The 37th AAAI conference on Artificial Intelligence*, 2023. [arXiv](https://arxiv.org/abs/2212.04663) [Code](https://github.com/woodssss/TL-PI-DeepONet)
 
