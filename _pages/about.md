@@ -18,7 +18,7 @@ Contact Information:
 206 Church St. SE.  
 Minneapolis, MN 55455
 
-Email: wang8818 at umn dot edu  
+Email: liwang at umn dot edu  
 Phone: 612-625-8381
 
 
