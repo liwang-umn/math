@@ -24,3 +24,5 @@ Phone: 612-625-8381
 
 
 **Highly-motivated students/researchers are always welcome to join us!**
+
+I am organizing a Workshop on Kinetic and Optimal Transport in Oct. 25--27, 2023. [check it out](https://cse.umn.edu/math/events/new-trends-kinetic-and-optimal-transport)
