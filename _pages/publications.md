@@ -36,15 +36,15 @@ Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Pl
 
 Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *SIAM/ASA Journal on Uncertainty Quantification*, accepted. [arXiv](https://arxiv.org/abs/2305.04024)
 
-Suppressing instability in a Vlasov-Poisson system by an external electric field through constrained optimization (with L. Einkemmer, Q. Li and Y. Yang), *J. Comput. Phys.* 2024. [Journal](https://www.sciencedirect.com/science/article/pii/S002199912300757X) [arXiv](https://arxiv.org/abs/2305.17994)
+Suppressing instability in a Vlasov-Poisson system by an external electric field through constrained optimization (with L. Einkemmer, Q. Li and Y. Yang), *J. Comput. Phys.* 2024. [journal](https://www.sciencedirect.com/science/article/pii/S002199912300757X) [arXiv](https://arxiv.org/abs/2305.17994)
 
 Structure preserving primal dual methods for gradient flows with nonlinear mobility transport distances (with J. Carrillo and C. Wei), *SIAM J. Numer. Anal.*, accepted. [arXiv](https://arxiv.org/abs/2303.16534)
 
-Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *SIAM J. Numer. Anal.*, accpeted. [Journal](https://epubs.siam.org/doi/abs/10.1137/22M1524515?journalCode=sjnaam) [arXiv](https://arxiv.org/abs/2209.12114)
+Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *SIAM J. Numer. Anal.*, accpeted. [journal](https://epubs.siam.org/doi/abs/10.1137/22M1524515?journalCode=sjnaam) [arXiv](https://arxiv.org/abs/2209.12114)
 
 Transfer learning enhanced DeepONet for long-time prediction of evolution equations (with Y. Lu and W. Xu), *The 37th AAAI conference on Artificial Intelligence*, 2023. [arXiv](https://arxiv.org/abs/2212.04663) [Code](https://github.com/woodssss/TL-PI-DeepONet)
 
-Solving multiscale steady radiative transfer equation using neural networks with uniform stability (with Y. Lu and W. Xu), *Research in Mathematical Sciences 9*, 2022. [Journal](https://link.springer.com/article/10.1007/s40687-022-00345-z) [arXiv](https://arxiv.org/abs/2110.07037)
+Solving multiscale steady radiative transfer equation using neural networks with uniform stability (with Y. Lu and W. Xu), *Research in Mathematical Sciences 9*, 2022. [journal](https://link.springer.com/article/10.1007/s40687-022-00345-z) [arXiv](https://arxiv.org/abs/2110.07037)
 
 Hessian informed mirror descent (with M. Yan), *J. Sci. Comput.* 92, 2022. [journal](https://link.springer.com/article/10.1007/s10915-022-01933-5) [arXiv](https://arxiv.org/abs/2106.13477)
 
