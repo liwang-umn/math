@@ -19,14 +19,13 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
+To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, R. Shu and W. Xu), *submitted*. [arXiv](https://arxiv.org/abs/2403.12735)
+
+Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *submitted*. [arXiv](https://arxiv.org/abs/2402.06828)
 
 Deep JKO: Time-implicit particle methods for general nonlinear gradient flows (with W. Lee and W. Li), *submitted*. [arXiv](https://arxiv.org/abs/2311.06700)
 
 On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *submitted*. [arXiv](https://arxiv.org/pdf/2307.16814)
-
-Suppressing instability in a Vlasov-Poisson system by an external electric field through constrained optimization (with L. Einkemmer, Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2305.17994)
-
-Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2305.04024)
 
 Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *submitted*. [arXiv](https://arxiv.org/abs/2208.12302)
 
@@ -35,9 +34,13 @@ Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Pl
 
 ### Refereed journal or conference publications:
 
+Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *SIAM/ASA Journal on Uncertainty Quantification*, accepted. [arXiv](https://arxiv.org/abs/2305.04024)
+
+Suppressing instability in a Vlasov-Poisson system by an external electric field through constrained optimization (with L. Einkemmer, Q. Li and Y. Yang), *J. Comput. Phys.* 2024. [Journal](https://www.sciencedirect.com/science/article/pii/S002199912300757X) [arXiv](https://arxiv.org/abs/2305.17994)
+
 Structure preserving primal dual methods for gradient flows with nonlinear mobility transport distances (with J. Carrillo and C. Wei), *SIAM J. Numer. Anal.*, accepted. [arXiv](https://arxiv.org/abs/2303.16534)
 
-Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *SIAM J. Numer. Anal.*, accpeted.  [arXiv](https://arxiv.org/abs/2209.12114)
+Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *SIAM J. Numer. Anal.*, accpeted. [Journal](https://epubs.siam.org/doi/abs/10.1137/22M1524515?journalCode=sjnaam) [arXiv](https://arxiv.org/abs/2209.12114)
 
 Transfer learning enhanced DeepONet for long-time prediction of evolution equations (with Y. Lu and W. Xu), *The 37th AAAI conference on Artificial Intelligence*, 2023. [arXiv](https://arxiv.org/abs/2212.04663) [Code](https://github.com/woodssss/TL-PI-DeepONet)
 
