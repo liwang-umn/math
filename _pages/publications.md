@@ -19,6 +19,9 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
+
+A score-based particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2405.05187)
+
 To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, R. Shu and W. Xu), *submitted*. [arXiv](https://arxiv.org/abs/2403.12735)
 
 Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *submitted*. [arXiv](https://arxiv.org/abs/2402.06828)
@@ -27,12 +30,13 @@ Deep JKO: Time-implicit particle methods for general nonlinear gradient flows (w
 
 On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *submitted*. [arXiv](https://arxiv.org/pdf/2307.16814)
 
-Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *submitted*. [arXiv](https://arxiv.org/abs/2208.12302)
 
 
 
 
 ### Refereed journal or conference publications:
+
+Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *Math. Comput.*, accepted. [arXiv](https://arxiv.org/abs/2208.12302)
 
 Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *SIAM/ASA Journal on Uncertainty Quantification*, accepted. [arXiv](https://arxiv.org/abs/2305.04024)
 
