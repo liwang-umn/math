@@ -26,8 +26,6 @@ To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, 
 
 Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *submitted*. [arXiv](https://arxiv.org/abs/2402.06828)
 
-Deep JKO: Time-implicit particle methods for general nonlinear gradient flows (with W. Lee and W. Li), *submitted*. [arXiv](https://arxiv.org/abs/2311.06700)
-
 On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *submitted*. [arXiv](https://arxiv.org/pdf/2307.16814)
 
 
@@ -35,16 +33,17 @@ On the kinetic description of the objective molecular dynamics (with R. D. James
 
 
 ### Refereed journal or conference publications:
+Deep JKO: Time-implicit particle methods for general nonlinear gradient flows (with W. Lee and W. Li), *J. Comput. Phys.*, 2024. [arXiv](https://arxiv.org/abs/2311.06700) [journal](https://www.sciencedirect.com/science/article/pii/S0021999124004364)
 
-Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *Math. Comput.*, accepted. [arXiv](https://arxiv.org/abs/2208.12302)
+Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *Math. Comput.*, 2024. [arXiv](https://arxiv.org/abs/2208.12302) [journal](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03975-3/)
 
-Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *SIAM/ASA Journal on Uncertainty Quantification*, accepted. [arXiv](https://arxiv.org/abs/2305.04024)
+Differential-equation constrained optimization with stochasticity (with Q. Li and Y. Yang), *SIAM/ASA Journal on Uncertainty Quantification*, 2024. [arXiv](https://arxiv.org/abs/2305.04024) [journal](https://epubs.siam.org/doi/10.1137/23M1571162)
 
 Suppressing instability in a Vlasov-Poisson system by an external electric field through constrained optimization (with L. Einkemmer, Q. Li and Y. Yang), *J. Comput. Phys.* 2024. [journal](https://www.sciencedirect.com/science/article/pii/S002199912300757X) [arXiv](https://arxiv.org/abs/2305.17994)
 
-Structure preserving primal dual methods for gradient flows with nonlinear mobility transport distances (with J. Carrillo and C. Wei), *SIAM J. Numer. Anal.*, accepted. [arXiv](https://arxiv.org/abs/2303.16534)
+Structure preserving primal dual methods for gradient flows with nonlinear mobility transport distances (with J. Carrillo and C. Wei), *SIAM J. Numer. Anal.*, 2024. [arXiv](https://arxiv.org/abs/2303.16534) [journal](https://epubs.siam.org/doi/full/10.1137/23M1562068)
 
-Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *SIAM J. Numer. Anal.*, accpeted. [journal](https://epubs.siam.org/doi/abs/10.1137/22M1524515?journalCode=sjnaam) [arXiv](https://arxiv.org/abs/2209.12114)
+Monte Carlo gradient in optimization constrained by radiative transport equation (with Q. Li and Y. Yang), *SIAM J. Numer. Anal.*, 2023. [journal](https://epubs.siam.org/doi/abs/10.1137/22M1524515?journalCode=sjnaam) [arXiv](https://arxiv.org/abs/2209.12114)
 
 Transfer learning enhanced DeepONet for long-time prediction of evolution equations (with Y. Lu and W. Xu), *The 37th AAAI conference on Artificial Intelligence*, 2023. [arXiv](https://arxiv.org/abs/2212.04663) [Code](https://github.com/woodssss/TL-PI-DeepONet)
 
@@ -70,7 +69,7 @@ Fisher information regularization schemes for Wasserstein gradient flows (with W
 
 Towards understanding the boundary propagation speeds in tumor growth models (with J.-G. Liu, M. Tang and Z. Zhou), *SIAM. J. Appl. Math.*, 2021. [journal](https://epubs.siam.org/doi/10.1137/19M1296665) [arXiv](https://arxiv.org/pdf/1910.11502.pdf)
 
-Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), *SIAM J. Sci. Comput*, accepted, 2021. [arXiv](https://arxiv.org/pdf/1811.05579.pdf)
+Accurate front capturing asymptotic preserving method for nonlinear grey radiative transport equation (with M. Tang and X. Zhang), *SIAM J. Sci. Comput*, accepted, 2021. [arXiv](https://arxiv.org/pdf/1811.05579.pdf) [journal](https://epubs.siam.org/doi/10.1137/20M1318031)
 
 An asymptotic-preserving scheme for kinetic equation with anisotropic scattering: heavy tail equilibrium and degenerate collision frequency (with B. Yan), *SIAM. J. Sci. Comput.* 41(1), A422-–A451, 2019. [journal](https://www.semanticscholar.org/paper/An-Asymptotic-Preserving-Scheme-for-the-Kinetic-and-Wang-Yan/778a59bc70b9be51f4bf3a4713086f2ccd877128)
 
