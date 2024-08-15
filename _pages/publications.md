@@ -19,6 +19,7 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
+Confinement-induced spreading and fingering of 2D suspension (with R. Luo, M. Marshall, Z. He and S. Lee), *submitted*. 
 
 A score-based particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2405.05187)
 
