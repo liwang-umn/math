@@ -19,6 +19,10 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
+JKO for Landau: a variational particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2409.12296)
+
+Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery (with J. Lu, K. Qi and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2409.03872)
+
 Confinement-induced spreading and fingering of 2D suspension (with R. Luo, M. Marshall, Z. He and S. Lee), *submitted*. 
 
 A score-based particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2405.05187)
@@ -27,13 +31,14 @@ To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, 
 
 Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *submitted*. [arXiv](https://arxiv.org/abs/2402.06828)
 
-On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *submitted*. [arXiv](https://arxiv.org/pdf/2307.16814)
 
 
 
 
 
 ### Refereed journal or conference publications:
+On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *SIAM MMS*, accepted. [arXiv](https://arxiv.org/pdf/2307.16814)
+
 Deep JKO: Time-implicit particle methods for general nonlinear gradient flows (with W. Lee and W. Li), *J. Comput. Phys.*, 2024. [arXiv](https://arxiv.org/abs/2311.06700) [journal](https://www.sciencedirect.com/science/article/pii/S0021999124004364)
 
 Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation (with W. Sun), *Math. Comput.*, 2024. [arXiv](https://arxiv.org/abs/2208.12302) [journal](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03975-3/)
