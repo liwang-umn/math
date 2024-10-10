@@ -19,6 +19,8 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
+Stochastic Inverse Problem: stability, regularization and Wasserstein gradient flow (with Q. Li, M. Oprea and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2410.00229)
+
 JKO for Landau: a variational particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2409.12296)
 
 Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery (with J. Lu, K. Qi and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2409.03872)
