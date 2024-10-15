@@ -29,8 +29,6 @@ Confinement-induced spreading and fingering of 2D suspension (with R. Luo, M. Ma
 
 A score-based particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2405.05187)
 
-To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, R. Shu and W. Xu), *submitted*. [arXiv](https://arxiv.org/abs/2403.12735)
-
 Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *submitted*. [arXiv](https://arxiv.org/abs/2402.06828)
 
 
@@ -39,6 +37,8 @@ Radiative transport in a periodic structure with band crossings (with K. Qi and 
 
 
 ### Refereed journal or conference publications:
+To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, R. Shu and W. Xu), *Physica D*, accpeted. [arXiv](https://arxiv.org/abs/2403.12735)
+
 On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *SIAM MMS*, accepted. [arXiv](https://arxiv.org/pdf/2307.16814)
 
 Deep JKO: Time-implicit particle methods for general nonlinear gradient flows (with W. Lee and W. Li), *J. Comput. Phys.*, 2024. [arXiv](https://arxiv.org/abs/2311.06700) [journal](https://www.sciencedirect.com/science/article/pii/S0021999124004364)
