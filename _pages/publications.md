@@ -19,29 +19,29 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
+Inverse Problems Over Probability Measure Space (with Q. Li, M. Oprea and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2504.18999)
+
+A fast Fourier spectral method for wave kinetic equation (with K. Qi and L. Shen), *submitted*. [arXiv](https://arxiv.org/abs/2503.12805) 
+
 Stochastic Inverse Problem: stability, regularization and Wasserstein gradient flow (with Q. Li, M. Oprea and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2410.00229)
 
 JKO for Landau: a variational particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2409.12296)
 
 Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery (with J. Lu, K. Qi and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2409.03872)
-
-Confinement-induced spreading and fingering of 2D suspension (with R. Luo, M. Marshall, Z. He and S. Lee), *submitted*. 
-
-A score-based particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2405.05187)
-
-
-
-
-
+ 
 
 
 
 ### Refereed journal or conference publications:
-Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *SIAM J. App. Math.*, accepted. [arXiv](https://arxiv.org/abs/2402.06828)
+A score-based particle method for homogeneous Landau equation (with Y. Huang), *J. Comput. Phys.*, 2025. [journal](https://www.sciencedirect.com/science/article/pii/S0021999125003365) [arXiv](https://arxiv.org/abs/2405.05187) 
 
-To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, R. Shu and W. Xu), *Physica D*, accpeted. [arXiv](https://arxiv.org/abs/2403.12735)
+Confinement-induced spreading and fingering of suspensions(with R. Luo, M. Marshall, Z. He and S. Lee), *J. Fluid Mech.*. accepted. 
 
-On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *SIAM MMS*, accepted. [arXiv](https://arxiv.org/pdf/2307.16814)
+Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *SIAM J. App. Math.*, 2025. [journal](https://epubs.siam.org/doi/full/10.1137/24M1638082) [arXiv](https://arxiv.org/abs/2402.06828)
+
+To blow-up or not to blow-up for a granular kinetic equation (with J. Carrillo, R. Shu and W. Xu), *Physica D*, 2024. [journal](https://www.sciencedirect.com/science/article/pii/S0167278924003609) [arXiv](https://arxiv.org/abs/2403.12735)
+
+On the kinetic description of the objective molecular dynamics (with R. D. James and K. Qi), *SIAM MMS*, 2024. [journal](https://epubs.siam.org/doi/full/10.1137/23M1596727) [arXiv](https://arxiv.org/pdf/2307.16814)
 
 Deep JKO: Time-implicit particle methods for general nonlinear gradient flows (with W. Lee and W. Li), *J. Comput. Phys.*, 2024. [arXiv](https://arxiv.org/abs/2311.06700) [journal](https://www.sciencedirect.com/science/article/pii/S0021999124004364)
 
