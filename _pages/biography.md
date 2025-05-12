@@ -13,4 +13,4 @@ I got my Ph.D. from the University of Wisconsin-Madison, under the supervision o
 
 I am very fortunate to be the recipient of several awards, incluidng the Simons Fellows in Mathematics (2024), Simons Fellowship to visit Issac Newton Institute (2022), NSF CAREER grant (2019), AMS-Simons Travel grant (2014), PRIMA Travel grant (2013) and Elizabeth Hirschfelder Scholarship at UW-Madison (2012). I am also grateful to the support from NSF through DMS-1620135, DMS-1903420. 
 
-Currently I serve on the editorial board of [Kinetic and Related Models](https://www.aimsciences.org/krm). 
+Currently I serve on the editorial board of [Kinetic and Related Models](https://www.aimsciences.org/krm) and [Communications in Mathematical Sciences](https://intlpress.com/journals/journalList?id=1804413732712935425)
