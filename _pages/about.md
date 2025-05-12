@@ -29,5 +29,6 @@ For potential postdocs, please apply on [mathjobs](https://www.mathjobs.org/jobs
 
 
 
+I am organizing a micro-workshop on Data Driven methods in May 19, 2025. Please register [here](https://cse.umn.edu/math/events/micro-workshop-data-driven-approaches-physical-models)
 
 I am organizing a Workshop on Kinetic and Optimal Transport in Oct. 25--27, 2023. [check it out](https://cse.umn.edu/math/events/new-trends-kinetic-and-optimal-transport)
