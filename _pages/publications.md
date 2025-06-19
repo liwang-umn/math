@@ -23,7 +23,7 @@ Inverse Problems Over Probability Measure Space (with Q. Li, M. Oprea and Y. Yan
 
 A fast Fourier spectral method for wave kinetic equation (with K. Qi and L. Shen), *submitted*. [arXiv](https://arxiv.org/abs/2503.12805) 
 
-Reconstruction of heat relaxation index in phonon transport equation (With P. Chen, I. Gamba, Q. Li), *submitted*. [arXiv](https://arxiv.org/abs/2502.19533)
+Reconstruction of heat relaxation index in phonon transport equation (with P. Chen, I. Gamba, Q. Li), *submitted*. [arXiv](https://arxiv.org/abs/2502.19533)
 
 Stochastic Inverse Problem: stability, regularization and Wasserstein gradient flow (with Q. Li, M. Oprea and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2410.00229)
 
