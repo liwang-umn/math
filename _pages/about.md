@@ -25,7 +25,7 @@ Phone: 612-625-8381
 
 **Highly-motivated students/researchers are always welcome to join us!**         
 For potential PhD students, please apply [here](https://cse.umn.edu/math/phd-program).   
-For potential postdocs, please apply on [mathjobs](https://www.mathjobs.org/jobs/list/25118).
+For potential postdocs, please apply on [mathjobs](https://www.mathjobs.org/jobs/list/27030).
 
 
 
