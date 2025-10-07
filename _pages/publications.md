@@ -19,6 +19,10 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
+Controlling instability in the Vlasov-Poisson system through moment-based optimization (with J. Lu and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2508.18412)
+
+The Evolution of Pointwise Statistics in Hyperbolic Equations with Random Data (with A. Chertock, P. Degond and A Sagiv), *submitted*. [arXiv](https://arxiv.org/abs/2507.11399)
+
 Inverse Problems Over Probability Measure Space (with Q. Li, M. Oprea and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2504.18999)
 
 A fast Fourier spectral method for wave kinetic equation (with K. Qi and L. Shen), *submitted*. [arXiv](https://arxiv.org/abs/2503.12805) 
@@ -29,12 +33,13 @@ Stochastic Inverse Problem: stability, regularization and Wasserstein gradient f
 
 JKO for Landau: a variational particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2409.12296)
 
-Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery (with J. Lu, K. Qi and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2409.03872)
- 
 
 
 
 ### Refereed journal or conference publications:
+Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery (with J. Lu, K. Qi and J. Calder), *J. Comput. Phys*., 2025. [arXiv](https://arxiv.org/abs/2409.03872)
+
+
 A score-based particle method for homogeneous Landau equation (with Y. Huang), *J. Comput. Phys.*, 2025. [journal](https://www.sciencedirect.com/science/article/pii/S0021999125003365) [arXiv](https://arxiv.org/abs/2405.05187) 
 
 Confinement-induced spreading and fingering of suspensions(with R. Luo, M. Marshall, Z. He and S. Lee), *J. Fluid Mech.*. accepted. 
