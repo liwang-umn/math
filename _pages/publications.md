@@ -38,11 +38,11 @@ Stochastic Inverse Problem: stability, regularization and Wasserstein gradient f
 
 
 ### Refereed journal or conference publications:
-A fast Fourier spectral method for wave kinetic equation (with K. Qi and L. Shen), *J. Compt. Phys.*. [arXiv](https://arxiv.org/abs/2503.12805) 
+A fast Fourier spectral method for wave kinetic equation (with K. Qi and L. Shen), *J. Comput. Phys.*, 2026. [arXiv](https://arxiv.org/abs/2503.12805) 
 
 JKO for Landau: a variational particle method for homogeneous Landau equation (with Y. Huang), *IMA J. Numer. Analysis*, 2026. [arXiv](https://arxiv.org/abs/2409.12296)
 
-The evolution of pointwise statistics in hyperbolic equations with random data (with A. Chertock, P. Degond and A Sagiv), *SIAM/ASA J UQ*, 2026. [arXiv](https://arxiv.org/abs/2507.11399)
+The evolution of pointwise statistics in hyperbolic equations with random data (with A. Chertock, P. Degond and A Sagiv), *SIAM/ASA Journal on Uncertainty Quantification*, 2026. [arXiv](https://arxiv.org/abs/2507.11399)
 
 Reconstruction of heat relaxation index in phonon transport equation (with P. Chen, I. Gamba, Q. Li), *SIAM J. App. Math*, 2025. [arXiv](https://arxiv.org/abs/2502.19533)
 
