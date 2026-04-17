@@ -19,26 +19,34 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
-Controlling instability in the Vlasov-Poisson system through moment-based optimization (with J. Lu and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2508.18412)
+Asymptotic-preserving deterministic particle methods for collisional plasma models (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2604.09484)
 
-The Evolution of Pointwise Statistics in Hyperbolic Equations with Random Data (with A. Chertock, P. Degond and A Sagiv), *submitted*. [arXiv](https://arxiv.org/abs/2507.11399)
+Inference of interacting kernel in the mean-field regime (with P. Chen, Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2603.14211)
+
+Learn to Evolve: Self-supervised Neural JKO Operator for Wasserstein Gradient Flow (with X. Feng, D. Needell and R. Lai), *submitted*.[arXiv](https://arxiv.org/abs/2601.05583)
+
+Dynamical feedback control with operator learning for the Vlasov-Poisson system (with J. Lu and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2509.23063)
+
+Controlling instability in the Vlasov-Poisson system through moment-based optimization (with J. Lu and J. Calder), *submitted*. [arXiv](https://arxiv.org/abs/2508.18412)
 
 Inverse Problems Over Probability Measure Space (with Q. Li, M. Oprea and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2504.18999)
 
-A fast Fourier spectral method for wave kinetic equation (with K. Qi and L. Shen), *submitted*. [arXiv](https://arxiv.org/abs/2503.12805) 
-
-Reconstruction of heat relaxation index in phonon transport equation (with P. Chen, I. Gamba, Q. Li), *submitted*. [arXiv](https://arxiv.org/abs/2502.19533)
-
 Stochastic Inverse Problem: stability, regularization and Wasserstein gradient flow (with Q. Li, M. Oprea and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2410.00229)
 
-JKO for Landau: a variational particle method for homogeneous Landau equation (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2409.12296)
 
 
 
 
 ### Refereed journal or conference publications:
-Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery (with J. Lu, K. Qi and J. Calder), *J. Comput. Phys*., 2025. [arXiv](https://arxiv.org/abs/2409.03872)
+A fast Fourier spectral method for wave kinetic equation (with K. Qi and L. Shen), *J. Compt. Phys.*. [arXiv](https://arxiv.org/abs/2503.12805) 
 
+JKO for Landau: a variational particle method for homogeneous Landau equation (with Y. Huang), *IMA J. Numer. Analysis*, 2026. [arXiv](https://arxiv.org/abs/2409.12296)
+
+The Evolution of Pointwise Statistics in Hyperbolic Equations with Random Data (with A. Chertock, P. Degond and A Sagiv), *SIAM/ASA J UQ*, 2026. [arXiv](https://arxiv.org/abs/2507.11399)
+
+Reconstruction of heat relaxation index in phonon transport equation (with P. Chen, I. Gamba, Q. Li), *SIAM J. App. Math*, 2025. [arXiv](https://arxiv.org/abs/2502.19533)
+
+Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery (with J. Lu, K. Qi and J. Calder), *J. Comput. Phys*., 2025. [arXiv](https://arxiv.org/abs/2409.03872)
 
 A score-based particle method for homogeneous Landau equation (with Y. Huang), *J. Comput. Phys.*, 2025. [journal](https://www.sciencedirect.com/science/article/pii/S0021999125003365) [arXiv](https://arxiv.org/abs/2405.05187) 
 
