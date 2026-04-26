@@ -52,7 +52,7 @@ Continuous data assimilation for hydrodynamics: consistent discretization and ap
 
 A score-based particle method for homogeneous Landau equation (with Y. Huang), *J. Comput. Phys.*, 2025. [journal](https://www.sciencedirect.com/science/article/pii/S0021999125003365) [arXiv](https://arxiv.org/abs/2405.05187) 
 
-Confinement-induced spreading and fingering of suspensions(with R. Luo, M. Marshall, Z. He and S. Lee), *J. Fluid Mech.*. accepted. 
+Confinement-induced spreading and fingering of suspensions(with R. Luo, M. Marshall, Z. He and S. Lee), *J. Fluid Mech.*. 2025. [journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/confinementinduced-spreading-and-fingering-of-suspensions/D962B309C2FBC1AEAF79FAA5193D26D0)
 
 Radiative transport in a periodic structure with band crossings (with K. Qi and A. Watson), *SIAM J. App. Math.*, 2025. [journal](https://epubs.siam.org/doi/full/10.1137/24M1638082) [arXiv](https://arxiv.org/abs/2402.06828)
 
