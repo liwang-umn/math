@@ -19,7 +19,7 @@ with applications in physics, engineering, biology and data science.
 ## Publications
 
 ### Preprints:
-A Proximal Primal-Dual Approach to Generalized JKO Schemes for Doubly Nonlinear Parabolic Equations (with L.Briceno-Arias, J.Carrillo, D. Kalise, F.Silva), *submitted*. [arXiv](https://arxiv.org/abs/2604.19910)
+A Proximal Primal-Dual Approach to Generalized JKO Schemes for Doubly Nonlinear Parabolic Equations (with L. Briceno-Arias, J. Carrillo, D. Kalise, F. Silva), *submitted*. [arXiv](https://arxiv.org/abs/2604.19910)
 
 Asymptotic-preserving deterministic particle methods for collisional plasma models (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2604.09484)
 
