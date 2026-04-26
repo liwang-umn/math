@@ -28,7 +28,7 @@ For potential PhD students, please apply [here](https://cse.umn.edu/math/phd-pro
 For potential postdocs, please apply on [mathjobs](https://www.mathjobs.org/jobs/list/27030).
 
 
-I am organzing a Workshop on Deep Learning meets PDE in Apr. 27--29, 2026. [check it out](https://cse.umn.edu/math/events/deep-learning-meets-pde-workshop)
+I am organizing a Workshop on Deep Learning meets PDE in Apr. 27--29, 2026. [check it out](https://cse.umn.edu/math/events/deep-learning-meets-pde-workshop)
 
 I am organizing a micro-workshop on Data Driven methods in May 19, 2025. Please register [here](https://cse.umn.edu/math/events/micro-workshop-data-driven-approaches-physical-models)
 
