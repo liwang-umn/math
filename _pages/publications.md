@@ -23,6 +23,8 @@ A Proximal Primal-Dual Approach to Generalized JKO Schemes for Doubly Nonlinear 
 
 Asymptotic-preserving deterministic particle methods for collisional plasma models (with Y. Huang), *submitted*. [arXiv](https://arxiv.org/abs/2604.09484)
 
+Deep Kinetic JKO schemes for Vlasov-Fokker-Planck Equations (with W. Li and W. Lee), *submitted*. [arXiv](https://arxiv.org/abs/2603.23901)
+
 Inference of interacting kernel in the mean-field regime (with P. Chen, Q. Li and Y. Yang), *submitted*. [arXiv](https://arxiv.org/abs/2603.14211)
 
 Learn to Evolve: Self-supervised Neural JKO Operator for Wasserstein Gradient Flow (with X. Feng, D. Needell and R. Lai), *submitted*.[arXiv](https://arxiv.org/abs/2601.05583)
